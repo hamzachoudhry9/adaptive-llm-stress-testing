@@ -1,0 +1,1038 @@
+2026-04-02 00:39:58,351 [INFO] Starting fresh generation.
+2026-04-02 00:39:58,351 [INFO] Loading model: Qwen/Qwen2.5-7B-Instruct
+2026-04-02 00:39:58,521 [INFO] HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-7B-Instruct/revision/main "HTTP/1.1 200 OK"
+2026-04-02 00:40:09,710 [INFO] Model ready.
+2026-04-02 00:40:09,714 [INFO] [1/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 00:43:39,056 [INFO] Starting fresh generation.
+2026-04-02 00:43:39,056 [INFO] Loading model: mlx-community/Qwen2.5-7B-Instruct-4bit
+2026-04-02 00:43:39,216 [INFO] HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen2.5-7B-Instruct-4bit/revision/main "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,331 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/added_tokens.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-02 00:43:39,357 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/added_tokens.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,372 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/merges.txt "HTTP/1.1 307 Temporary Redirect"
+2026-04-02 00:43:39,373 [WARNING] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-04-02 00:43:39,374 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-02 00:43:39,384 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/added_tokens.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,385 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-02 00:43:39,385 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-02 00:43:39,386 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-02 00:43:39,396 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/config.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,396 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/merges.txt "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,397 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/model.safetensors "HTTP/1.1 302 Found"
+2026-04-02 00:43:39,411 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,413 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,414 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/tokenizer.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,415 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/model.safetensors.index.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-02 00:43:39,425 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/config.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,426 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/merges.txt "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,441 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/model.safetensors.index.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,454 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,458 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,466 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/tokenizer.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,487 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/model.safetensors.index.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,518 [INFO] HTTP Request: HEAD https://huggingface.co/mlx-community/Qwen2.5-7B-Instruct-4bit/resolve/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/vocab.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-02 00:43:39,519 [INFO] HTTP Request: GET https://huggingface.co/api/models/mlx-community/Qwen2.5-7B-Instruct-4bit/xet-read-token/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,538 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/vocab.json "HTTP/1.1 200 OK"
+2026-04-02 00:43:39,574 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/mlx-community/Qwen2.5-7B-Instruct-4bit/c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed/vocab.json "HTTP/1.1 200 OK"
+2026-04-02 00:48:06,801 [INFO] Model ready.
+2026-04-02 00:48:06,803 [INFO] [1/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 00:48:33,020 [INFO]   ✓ Saved (326 words)
+2026-04-02 00:48:33,125 [INFO] [2/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 00:48:47,884 [INFO]   ✓ Saved (233 words)
+2026-04-02 00:48:47,989 [INFO] [3/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 00:49:00,966 [INFO]   ✓ Saved (239 words)
+2026-04-02 00:49:01,066 [INFO] [4/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 00:49:26,349 [INFO]   ✓ Saved (368 words)
+2026-04-02 00:49:26,454 [INFO] [5/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 00:49:42,801 [INFO]   ✓ Saved (290 words)
+2026-04-02 00:49:42,906 [INFO] [6/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 00:49:57,150 [INFO]   ✓ Saved (274 words)
+2026-04-02 00:49:57,256 [INFO] [7/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 00:50:14,183 [INFO]   ✓ Saved (344 words)
+2026-04-02 00:50:14,288 [INFO] [8/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 00:50:39,563 [INFO]   ✓ Saved (401 words)
+2026-04-02 00:50:39,663 [INFO] [9/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 00:50:56,497 [INFO]   ✓ Saved (301 words)
+2026-04-02 00:50:56,602 [INFO] [10/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 00:51:13,969 [INFO]   ✓ Saved (323 words)
+2026-04-02 00:51:14,074 [INFO] [11/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 00:51:29,638 [INFO]   ✓ Saved (279 words)
+2026-04-02 00:51:29,744 [INFO] [12/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 00:51:43,578 [INFO]   ✓ Saved (222 words)
+2026-04-02 00:51:43,683 [INFO] [13/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 00:52:03,586 [INFO]   ✓ Saved (310 words)
+2026-04-02 00:52:03,691 [INFO] [14/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 00:52:21,125 [INFO]   ✓ Saved (270 words)
+2026-04-02 00:52:21,230 [INFO] [15/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 00:52:34,661 [INFO]   ✓ Saved (231 words)
+2026-04-02 00:52:34,767 [INFO] [16/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 00:52:53,077 [INFO]   ✓ Saved (324 words)
+2026-04-02 00:52:53,182 [INFO] [17/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 00:53:07,960 [INFO]   ✓ Saved (248 words)
+2026-04-02 00:53:08,065 [INFO] [18/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 00:53:18,641 [INFO]   ✓ Saved (177 words)
+2026-04-02 00:53:18,746 [INFO] [19/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 00:53:30,434 [INFO]   ✓ Saved (182 words)
+2026-04-02 00:53:30,540 [INFO] [20/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 00:53:41,809 [INFO]   ✓ Saved (201 words)
+2026-04-02 00:53:41,915 [INFO] [21/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 00:53:55,867 [INFO]   ✓ Saved (252 words)
+2026-04-02 00:53:55,972 [INFO] [22/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 00:54:11,269 [INFO]   ✓ Saved (278 words)
+2026-04-02 00:54:11,374 [INFO] [23/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 00:54:29,390 [INFO]   ✓ Saved (334 words)
+2026-04-02 00:54:29,495 [INFO] [24/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 00:54:46,966 [INFO]   ✓ Saved (330 words)
+2026-04-02 00:54:47,071 [INFO] [25/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 00:55:02,450 [INFO]   ✓ Saved (283 words)
+2026-04-02 00:55:02,556 [INFO] [26/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 00:55:20,395 [INFO]   ✓ Saved (326 words)
+2026-04-02 00:55:20,500 [INFO] [27/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 00:55:33,768 [INFO]   ✓ Saved (252 words)
+2026-04-02 00:55:33,873 [INFO] [28/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 00:55:45,195 [INFO]   ✓ Saved (203 words)
+2026-04-02 00:55:45,300 [INFO] [29/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 00:56:04,622 [INFO]   ✓ Saved (288 words)
+2026-04-02 00:56:04,727 [INFO] [30/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 00:56:17,852 [INFO]   ✓ Saved (213 words)
+2026-04-02 00:56:17,957 [INFO] [31/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 01:29:39,745 [INFO]   ✓ Saved (326 words)
+2026-04-02 01:29:39,855 [INFO] [32/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 02:19:54,660 [INFO]   ✓ Saved (233 words)
+2026-04-02 02:19:54,769 [INFO] [33/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 02:57:34,618 [INFO]   ✓ Saved (239 words)
+2026-04-02 02:57:34,728 [INFO] [34/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 03:47:21,000 [INFO]   ✓ Saved (368 words)
+2026-04-02 03:47:21,102 [INFO] [35/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 03:59:01,707 [INFO]   ✓ Saved (290 words)
+2026-04-02 03:59:01,817 [INFO] [36/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 04:47:06,394 [INFO]   ✓ Saved (274 words)
+2026-04-02 04:47:06,496 [INFO] [37/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 05:00:18,362 [INFO]   ✓ Saved (344 words)
+2026-04-02 05:00:18,472 [INFO] [38/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 06:00:56,915 [INFO]   ✓ Saved (401 words)
+2026-04-02 06:00:57,026 [INFO] [39/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 06:26:45,837 [INFO]   ✓ Saved (301 words)
+2026-04-02 06:26:45,948 [INFO] [40/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 07:00:41,794 [INFO]   ✓ Saved (323 words)
+2026-04-02 07:00:41,905 [INFO] [41/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 08:01:38,525 [INFO]   ✓ Saved (279 words)
+2026-04-02 08:01:38,636 [INFO] [42/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 08:02:19,130 [INFO]   ✓ Saved (222 words)
+2026-04-02 08:02:19,241 [INFO] [43/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 09:02:40,867 [INFO]   ✓ Saved (310 words)
+2026-04-02 09:02:40,976 [INFO] [44/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 09:35:55,309 [INFO]   ✓ Saved (270 words)
+2026-04-02 09:35:55,420 [INFO] [45/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 10:03:58,414 [INFO]   ✓ Saved (231 words)
+2026-04-02 10:03:58,525 [INFO] [46/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 10:38:16,700 [INFO]   ✓ Saved (324 words)
+2026-04-02 10:38:16,813 [INFO] [47/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 11:04:54,995 [INFO]   ✓ Saved (248 words)
+2026-04-02 11:04:55,106 [INFO] [48/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 11:05:23,773 [INFO]   ✓ Saved (177 words)
+2026-04-02 11:05:23,883 [INFO] [49/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 11:55:33,666 [INFO]   ✓ Saved (182 words)
+2026-04-02 11:55:33,776 [INFO] [50/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 12:05:38,672 [INFO]   ✓ Saved (201 words)
+2026-04-02 12:05:38,782 [INFO] [51/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 12:22:58,493 [INFO]   ✓ Saved (252 words)
+2026-04-02 12:22:58,603 [INFO] [52/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 13:03:59,061 [INFO]   ✓ Saved (278 words)
+2026-04-02 13:03:59,165 [INFO] [53/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 13:04:18,463 [INFO]   ✓ Saved (334 words)
+2026-04-02 13:04:18,569 [INFO] [54/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 13:04:35,233 [INFO]   ✓ Saved (330 words)
+2026-04-02 13:04:35,338 [INFO] [55/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 13:04:49,791 [INFO]   ✓ Saved (283 words)
+2026-04-02 13:04:49,896 [INFO] [56/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 13:05:06,998 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:05:07,103 [INFO] [57/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 13:05:20,815 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:05:20,921 [INFO] [58/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 13:05:31,882 [INFO]   ✓ Saved (203 words)
+2026-04-02 13:05:31,987 [INFO] [59/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 13:05:50,612 [INFO]   ✓ Saved (288 words)
+2026-04-02 13:05:50,717 [INFO] [60/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 13:06:02,937 [INFO]   ✓ Saved (213 words)
+2026-04-02 13:06:03,043 [INFO] [61/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 13:06:29,213 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:06:29,318 [INFO] [62/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 13:06:45,124 [INFO]   ✓ Saved (233 words)
+2026-04-02 13:06:45,229 [INFO] [63/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 13:06:58,409 [INFO]   ✓ Saved (239 words)
+2026-04-02 13:06:58,512 [INFO] [64/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 13:07:23,948 [INFO]   ✓ Saved (368 words)
+2026-04-02 13:07:24,054 [INFO] [65/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 13:07:40,468 [INFO]   ✓ Saved (290 words)
+2026-04-02 13:07:40,574 [INFO] [66/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 13:07:54,866 [INFO]   ✓ Saved (274 words)
+2026-04-02 13:07:54,971 [INFO] [67/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 13:08:11,902 [INFO]   ✓ Saved (344 words)
+2026-04-02 13:08:12,007 [INFO] [68/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 13:08:37,318 [INFO]   ✓ Saved (401 words)
+2026-04-02 13:08:37,423 [INFO] [69/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 13:08:54,657 [INFO]   ✓ Saved (301 words)
+2026-04-02 13:08:54,762 [INFO] [70/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 13:09:13,108 [INFO]   ✓ Saved (323 words)
+2026-04-02 13:09:13,213 [INFO] [71/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 13:09:28,851 [INFO]   ✓ Saved (279 words)
+2026-04-02 13:09:28,956 [INFO] [72/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 13:09:43,197 [INFO]   ✓ Saved (222 words)
+2026-04-02 13:09:43,302 [INFO] [73/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 13:10:03,932 [INFO]   ✓ Saved (310 words)
+2026-04-02 13:10:04,037 [INFO] [74/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 13:10:21,569 [INFO]   ✓ Saved (270 words)
+2026-04-02 13:10:21,675 [INFO] [75/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 13:10:34,800 [INFO]   ✓ Saved (231 words)
+2026-04-02 13:10:34,906 [INFO] [76/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 13:10:52,769 [INFO]   ✓ Saved (324 words)
+2026-04-02 13:10:52,874 [INFO] [77/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 13:11:07,488 [INFO]   ✓ Saved (248 words)
+2026-04-02 13:11:07,593 [INFO] [78/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 13:11:17,726 [INFO]   ✓ Saved (177 words)
+2026-04-02 13:11:17,831 [INFO] [79/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 13:11:28,960 [INFO]   ✓ Saved (182 words)
+2026-04-02 13:11:29,066 [INFO] [80/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 13:11:39,618 [INFO]   ✓ Saved (201 words)
+2026-04-02 13:11:39,723 [INFO] [81/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 13:11:53,137 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:11:53,242 [INFO] [82/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 13:12:08,758 [INFO]   ✓ Saved (278 words)
+2026-04-02 13:12:08,859 [INFO] [83/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 13:12:26,648 [INFO]   ✓ Saved (334 words)
+2026-04-02 13:12:26,751 [INFO] [84/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 13:12:43,531 [INFO]   ✓ Saved (330 words)
+2026-04-02 13:12:43,636 [INFO] [85/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 13:12:58,162 [INFO]   ✓ Saved (283 words)
+2026-04-02 13:12:58,263 [INFO] [86/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 13:13:15,478 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:13:15,584 [INFO] [87/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 13:13:28,734 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:13:28,839 [INFO] [88/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 13:13:39,699 [INFO]   ✓ Saved (203 words)
+2026-04-02 13:13:39,804 [INFO] [89/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 13:13:58,545 [INFO]   ✓ Saved (288 words)
+2026-04-02 13:13:58,650 [INFO] [90/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 13:14:11,064 [INFO]   ✓ Saved (213 words)
+2026-04-02 13:14:11,169 [INFO] [91/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 13:14:37,262 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:14:37,367 [INFO] [92/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 13:14:52,309 [INFO]   ✓ Saved (233 words)
+2026-04-02 13:14:52,414 [INFO] [93/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 13:15:05,368 [INFO]   ✓ Saved (239 words)
+2026-04-02 13:15:05,473 [INFO] [94/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 13:15:30,803 [INFO]   ✓ Saved (368 words)
+2026-04-02 13:15:30,908 [INFO] [95/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 13:15:47,341 [INFO]   ✓ Saved (290 words)
+2026-04-02 13:15:47,446 [INFO] [96/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 13:16:01,760 [INFO]   ✓ Saved (274 words)
+2026-04-02 13:16:01,865 [INFO] [97/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 13:16:18,832 [INFO]   ✓ Saved (344 words)
+2026-04-02 13:16:18,937 [INFO] [98/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 13:16:44,452 [INFO]   ✓ Saved (401 words)
+2026-04-02 13:16:44,557 [INFO] [99/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 13:17:01,549 [INFO]   ✓ Saved (301 words)
+2026-04-02 13:17:01,654 [INFO] [100/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 13:17:19,465 [INFO]   ✓ Saved (323 words)
+2026-04-02 13:17:19,570 [INFO] [101/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 13:17:35,330 [INFO]   ✓ Saved (279 words)
+2026-04-02 13:17:35,435 [INFO] [102/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 13:17:49,410 [INFO]   ✓ Saved (222 words)
+2026-04-02 13:17:49,515 [INFO] [103/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 13:18:09,430 [INFO]   ✓ Saved (310 words)
+2026-04-02 13:18:09,535 [INFO] [104/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 13:18:27,014 [INFO]   ✓ Saved (270 words)
+2026-04-02 13:18:27,120 [INFO] [105/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 13:18:40,304 [INFO]   ✓ Saved (231 words)
+2026-04-02 13:18:40,409 [INFO] [106/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 13:18:59,043 [INFO]   ✓ Saved (324 words)
+2026-04-02 13:18:59,149 [INFO] [107/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 13:19:14,446 [INFO]   ✓ Saved (248 words)
+2026-04-02 13:19:14,551 [INFO] [108/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 13:19:24,821 [INFO]   ✓ Saved (177 words)
+2026-04-02 13:19:24,926 [INFO] [109/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 13:19:36,366 [INFO]   ✓ Saved (182 words)
+2026-04-02 13:19:36,471 [INFO] [110/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 13:19:47,075 [INFO]   ✓ Saved (201 words)
+2026-04-02 13:19:47,180 [INFO] [111/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 13:20:00,704 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:20:00,810 [INFO] [112/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 13:20:16,320 [INFO]   ✓ Saved (278 words)
+2026-04-02 13:20:16,426 [INFO] [113/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 13:20:34,564 [INFO]   ✓ Saved (334 words)
+2026-04-02 13:20:34,669 [INFO] [114/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 13:20:51,874 [INFO]   ✓ Saved (330 words)
+2026-04-02 13:20:51,977 [INFO] [115/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 13:21:07,635 [INFO]   ✓ Saved (283 words)
+2026-04-02 13:21:07,739 [INFO] [116/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 13:21:24,829 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:21:24,934 [INFO] [117/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 13:21:38,130 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:21:38,235 [INFO] [118/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 13:21:49,094 [INFO]   ✓ Saved (203 words)
+2026-04-02 13:21:49,199 [INFO] [119/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 13:22:07,966 [INFO]   ✓ Saved (288 words)
+2026-04-02 13:22:08,071 [INFO] [120/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 13:22:20,423 [INFO]   ✓ Saved (213 words)
+2026-04-02 13:22:20,528 [INFO] [121/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 13:22:45,942 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:22:46,048 [INFO] [122/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 13:23:00,918 [INFO]   ✓ Saved (233 words)
+2026-04-02 13:23:01,023 [INFO] [123/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 13:23:14,312 [INFO]   ✓ Saved (239 words)
+2026-04-02 13:23:14,417 [INFO] [124/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 13:23:39,972 [INFO]   ✓ Saved (368 words)
+2026-04-02 13:23:40,077 [INFO] [125/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 13:23:56,652 [INFO]   ✓ Saved (290 words)
+2026-04-02 13:23:56,757 [INFO] [126/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 13:24:11,264 [INFO]   ✓ Saved (274 words)
+2026-04-02 13:24:11,365 [INFO] [127/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 13:24:28,586 [INFO]   ✓ Saved (344 words)
+2026-04-02 13:24:28,691 [INFO] [128/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 13:24:54,057 [INFO]   ✓ Saved (401 words)
+2026-04-02 13:24:54,162 [INFO] [129/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 13:25:11,054 [INFO]   ✓ Saved (301 words)
+2026-04-02 13:25:11,159 [INFO] [130/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 13:25:28,694 [INFO]   ✓ Saved (323 words)
+2026-04-02 13:25:28,799 [INFO] [131/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 13:25:44,798 [INFO]   ✓ Saved (279 words)
+2026-04-02 13:25:44,903 [INFO] [132/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 13:25:59,150 [INFO]   ✓ Saved (222 words)
+2026-04-02 13:25:59,256 [INFO] [133/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 13:26:19,650 [INFO]   ✓ Saved (310 words)
+2026-04-02 13:26:19,756 [INFO] [134/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 13:26:37,216 [INFO]   ✓ Saved (270 words)
+2026-04-02 13:26:37,321 [INFO] [135/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 13:26:50,556 [INFO]   ✓ Saved (231 words)
+2026-04-02 13:26:50,661 [INFO] [136/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 13:27:08,703 [INFO]   ✓ Saved (324 words)
+2026-04-02 13:27:08,809 [INFO] [137/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 13:27:23,484 [INFO]   ✓ Saved (248 words)
+2026-04-02 13:27:23,589 [INFO] [138/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 13:27:34,050 [INFO]   ✓ Saved (177 words)
+2026-04-02 13:27:34,156 [INFO] [139/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 13:27:45,658 [INFO]   ✓ Saved (182 words)
+2026-04-02 13:27:45,764 [INFO] [140/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 13:27:57,453 [INFO]   ✓ Saved (201 words)
+2026-04-02 13:27:57,558 [INFO] [141/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 13:28:10,873 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:28:10,978 [INFO] [142/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 13:28:25,783 [INFO]   ✓ Saved (278 words)
+2026-04-02 13:28:25,888 [INFO] [143/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 13:28:43,159 [INFO]   ✓ Saved (334 words)
+2026-04-02 13:28:43,265 [INFO] [144/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 13:28:59,522 [INFO]   ✓ Saved (330 words)
+2026-04-02 13:28:59,627 [INFO] [145/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 13:29:13,981 [INFO]   ✓ Saved (283 words)
+2026-04-02 13:29:14,086 [INFO] [146/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 13:29:30,925 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:29:31,030 [INFO] [147/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 13:29:44,121 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:29:44,227 [INFO] [148/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 13:29:54,997 [INFO]   ✓ Saved (203 words)
+2026-04-02 13:29:55,102 [INFO] [149/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 13:30:13,584 [INFO]   ✓ Saved (288 words)
+2026-04-02 13:30:13,689 [INFO] [150/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 13:30:25,893 [INFO]   ✓ Saved (213 words)
+2026-04-02 13:30:25,998 [INFO] [151/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 13:30:51,580 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:30:51,685 [INFO] [152/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 13:31:06,553 [INFO]   ✓ Saved (233 words)
+2026-04-02 13:31:06,658 [INFO] [153/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 13:31:19,813 [INFO]   ✓ Saved (239 words)
+2026-04-02 13:31:19,918 [INFO] [154/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 13:31:45,203 [INFO]   ✓ Saved (368 words)
+2026-04-02 13:31:45,308 [INFO] [155/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 13:32:01,669 [INFO]   ✓ Saved (290 words)
+2026-04-02 13:32:01,774 [INFO] [156/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 13:32:16,014 [INFO]   ✓ Saved (274 words)
+2026-04-02 13:32:16,119 [INFO] [157/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 13:32:33,005 [INFO]   ✓ Saved (344 words)
+2026-04-02 13:32:33,111 [INFO] [158/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 13:32:58,476 [INFO]   ✓ Saved (401 words)
+2026-04-02 13:32:58,581 [INFO] [159/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 13:33:15,388 [INFO]   ✓ Saved (301 words)
+2026-04-02 13:33:15,494 [INFO] [160/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 13:33:32,911 [INFO]   ✓ Saved (323 words)
+2026-04-02 13:33:33,016 [INFO] [161/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 13:33:48,678 [INFO]   ✓ Saved (279 words)
+2026-04-02 13:33:48,779 [INFO] [162/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 13:34:02,571 [INFO]   ✓ Saved (222 words)
+2026-04-02 13:34:02,677 [INFO] [163/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 13:34:22,483 [INFO]   ✓ Saved (310 words)
+2026-04-02 13:34:22,589 [INFO] [164/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 13:34:39,911 [INFO]   ✓ Saved (270 words)
+2026-04-02 13:34:40,016 [INFO] [165/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 13:34:53,099 [INFO]   ✓ Saved (231 words)
+2026-04-02 13:34:53,204 [INFO] [166/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 13:35:10,885 [INFO]   ✓ Saved (324 words)
+2026-04-02 13:35:10,990 [INFO] [167/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 13:35:25,311 [INFO]   ✓ Saved (248 words)
+2026-04-02 13:35:25,416 [INFO] [168/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 13:35:35,444 [INFO]   ✓ Saved (177 words)
+2026-04-02 13:35:35,549 [INFO] [169/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 13:35:46,592 [INFO]   ✓ Saved (182 words)
+2026-04-02 13:35:46,698 [INFO] [170/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 13:35:57,147 [INFO]   ✓ Saved (201 words)
+2026-04-02 13:35:57,253 [INFO] [171/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 13:36:10,795 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:36:10,900 [INFO] [172/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 13:36:26,032 [INFO]   ✓ Saved (278 words)
+2026-04-02 13:36:26,137 [INFO] [173/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 13:36:43,403 [INFO]   ✓ Saved (334 words)
+2026-04-02 13:36:43,508 [INFO] [174/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 13:36:59,728 [INFO]   ✓ Saved (330 words)
+2026-04-02 13:36:59,834 [INFO] [175/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 13:37:14,186 [INFO]   ✓ Saved (283 words)
+2026-04-02 13:37:14,291 [INFO] [176/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 13:37:31,106 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:37:31,211 [INFO] [177/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 13:37:44,308 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:37:44,414 [INFO] [178/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 13:37:55,222 [INFO]   ✓ Saved (203 words)
+2026-04-02 13:37:55,327 [INFO] [179/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 13:38:13,980 [INFO]   ✓ Saved (288 words)
+2026-04-02 13:38:14,086 [INFO] [180/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 13:38:26,314 [INFO]   ✓ Saved (213 words)
+2026-04-02 13:38:26,415 [INFO] [181/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 13:38:52,144 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:38:52,245 [INFO] [182/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 13:39:06,899 [INFO]   ✓ Saved (233 words)
+2026-04-02 13:39:07,005 [INFO] [183/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 13:39:19,918 [INFO]   ✓ Saved (239 words)
+2026-04-02 13:39:20,023 [INFO] [184/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 13:39:45,275 [INFO]   ✓ Saved (368 words)
+2026-04-02 13:39:45,375 [INFO] [185/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 13:40:01,711 [INFO]   ✓ Saved (290 words)
+2026-04-02 13:40:01,817 [INFO] [186/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 13:40:16,049 [INFO]   ✓ Saved (274 words)
+2026-04-02 13:40:16,154 [INFO] [187/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 13:40:33,098 [INFO]   ✓ Saved (344 words)
+2026-04-02 13:40:33,203 [INFO] [188/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 13:40:58,469 [INFO]   ✓ Saved (401 words)
+2026-04-02 13:40:58,574 [INFO] [189/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 13:41:15,389 [INFO]   ✓ Saved (301 words)
+2026-04-02 13:41:15,494 [INFO] [190/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 13:41:32,920 [INFO]   ✓ Saved (323 words)
+2026-04-02 13:41:33,025 [INFO] [191/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 13:41:48,845 [INFO]   ✓ Saved (279 words)
+2026-04-02 13:41:48,951 [INFO] [192/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 13:42:02,777 [INFO]   ✓ Saved (222 words)
+2026-04-02 13:42:02,882 [INFO] [193/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 13:42:22,731 [INFO]   ✓ Saved (310 words)
+2026-04-02 13:42:22,836 [INFO] [194/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 13:42:40,187 [INFO]   ✓ Saved (270 words)
+2026-04-02 13:42:40,293 [INFO] [195/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 13:42:53,341 [INFO]   ✓ Saved (231 words)
+2026-04-02 13:42:53,446 [INFO] [196/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 13:43:11,130 [INFO]   ✓ Saved (324 words)
+2026-04-02 13:43:11,235 [INFO] [197/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 13:43:25,598 [INFO]   ✓ Saved (248 words)
+2026-04-02 13:43:25,703 [INFO] [198/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 13:43:35,758 [INFO]   ✓ Saved (177 words)
+2026-04-02 13:43:35,860 [INFO] [199/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 13:43:46,926 [INFO]   ✓ Saved (182 words)
+2026-04-02 13:43:47,031 [INFO] [200/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 13:43:57,527 [INFO]   ✓ Saved (201 words)
+2026-04-02 13:43:57,638 [INFO] [201/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 13:44:10,947 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:44:11,057 [INFO] [202/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 13:44:25,880 [INFO]   ✓ Saved (278 words)
+2026-04-02 13:44:25,990 [INFO] [203/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 13:44:43,283 [INFO]   ✓ Saved (334 words)
+2026-04-02 13:44:43,393 [INFO] [204/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 13:44:59,653 [INFO]   ✓ Saved (330 words)
+2026-04-02 13:44:59,757 [INFO] [205/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 13:45:14,131 [INFO]   ✓ Saved (283 words)
+2026-04-02 13:45:14,241 [INFO] [206/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 13:45:31,129 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:45:31,239 [INFO] [207/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 13:45:44,364 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:45:44,474 [INFO] [208/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 13:45:55,274 [INFO]   ✓ Saved (203 words)
+2026-04-02 13:45:55,384 [INFO] [209/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 13:46:13,915 [INFO]   ✓ Saved (288 words)
+2026-04-02 13:46:14,025 [INFO] [210/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 13:46:26,263 [INFO]   ✓ Saved (213 words)
+2026-04-02 13:46:26,373 [INFO] [211/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 13:46:51,738 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:46:51,842 [INFO] [212/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 13:47:06,540 [INFO]   ✓ Saved (233 words)
+2026-04-02 13:47:06,650 [INFO] [213/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 13:47:19,589 [INFO]   ✓ Saved (239 words)
+2026-04-02 13:47:19,699 [INFO] [214/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 13:47:45,029 [INFO]   ✓ Saved (368 words)
+2026-04-02 13:47:45,139 [INFO] [215/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 13:48:01,533 [INFO]   ✓ Saved (290 words)
+2026-04-02 13:48:01,643 [INFO] [216/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 13:48:15,931 [INFO]   ✓ Saved (274 words)
+2026-04-02 13:48:16,041 [INFO] [217/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 13:48:33,760 [INFO]   ✓ Saved (344 words)
+2026-04-02 13:48:33,863 [INFO] [218/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 13:49:01,439 [INFO]   ✓ Saved (401 words)
+2026-04-02 13:49:01,544 [INFO] [219/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 13:49:19,349 [INFO]   ✓ Saved (301 words)
+2026-04-02 13:49:19,454 [INFO] [220/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 13:49:36,896 [INFO]   ✓ Saved (323 words)
+2026-04-02 13:49:37,001 [INFO] [221/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 13:49:52,639 [INFO]   ✓ Saved (279 words)
+2026-04-02 13:49:52,744 [INFO] [222/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 13:50:06,607 [INFO]   ✓ Saved (222 words)
+2026-04-02 13:50:06,712 [INFO] [223/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 13:50:26,609 [INFO]   ✓ Saved (310 words)
+2026-04-02 13:50:26,714 [INFO] [224/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 13:50:44,150 [INFO]   ✓ Saved (270 words)
+2026-04-02 13:50:44,255 [INFO] [225/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 13:50:57,358 [INFO]   ✓ Saved (231 words)
+2026-04-02 13:50:57,463 [INFO] [226/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 13:51:15,216 [INFO]   ✓ Saved (324 words)
+2026-04-02 13:51:15,321 [INFO] [227/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 13:51:29,729 [INFO]   ✓ Saved (248 words)
+2026-04-02 13:51:29,835 [INFO] [228/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 13:51:39,938 [INFO]   ✓ Saved (177 words)
+2026-04-02 13:51:40,043 [INFO] [229/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 13:51:51,171 [INFO]   ✓ Saved (182 words)
+2026-04-02 13:51:51,276 [INFO] [230/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 13:52:01,818 [INFO]   ✓ Saved (201 words)
+2026-04-02 13:52:01,923 [INFO] [231/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 13:52:15,296 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:52:15,401 [INFO] [232/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 13:52:30,304 [INFO]   ✓ Saved (278 words)
+2026-04-02 13:52:30,409 [INFO] [233/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 13:52:47,752 [INFO]   ✓ Saved (334 words)
+2026-04-02 13:52:47,853 [INFO] [234/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 13:53:04,487 [INFO]   ✓ Saved (330 words)
+2026-04-02 13:53:04,592 [INFO] [235/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 13:53:19,906 [INFO]   ✓ Saved (283 words)
+2026-04-02 13:53:20,011 [INFO] [236/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 13:53:37,670 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:53:37,772 [INFO] [237/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 13:53:51,346 [INFO]   ✓ Saved (252 words)
+2026-04-02 13:53:51,451 [INFO] [238/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 13:54:02,371 [INFO]   ✓ Saved (203 words)
+2026-04-02 13:54:02,476 [INFO] [239/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 13:54:21,732 [INFO]   ✓ Saved (288 words)
+2026-04-02 13:54:21,837 [INFO] [240/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 13:54:34,460 [INFO]   ✓ Saved (213 words)
+2026-04-02 13:54:34,566 [INFO] [241/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 13:55:00,301 [INFO]   ✓ Saved (326 words)
+2026-04-02 13:55:00,406 [INFO] [242/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 13:55:15,494 [INFO]   ✓ Saved (233 words)
+2026-04-02 13:55:15,599 [INFO] [243/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 13:55:28,696 [INFO]   ✓ Saved (239 words)
+2026-04-02 13:55:28,797 [INFO] [244/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 13:55:57,392 [INFO]   ✓ Saved (368 words)
+2026-04-02 13:55:57,498 [INFO] [245/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 13:56:14,822 [INFO]   ✓ Saved (290 words)
+2026-04-02 13:56:14,927 [INFO] [246/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 13:56:29,397 [INFO]   ✓ Saved (274 words)
+2026-04-02 13:56:29,502 [INFO] [247/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 13:56:46,495 [INFO]   ✓ Saved (344 words)
+2026-04-02 13:56:46,601 [INFO] [248/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 13:57:11,985 [INFO]   ✓ Saved (401 words)
+2026-04-02 13:57:12,086 [INFO] [249/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 13:57:28,968 [INFO]   ✓ Saved (301 words)
+2026-04-02 13:57:29,073 [INFO] [250/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 13:57:46,489 [INFO]   ✓ Saved (323 words)
+2026-04-02 13:57:46,594 [INFO] [251/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 13:58:02,185 [INFO]   ✓ Saved (279 words)
+2026-04-02 13:58:02,291 [INFO] [252/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 13:58:16,168 [INFO]   ✓ Saved (222 words)
+2026-04-02 13:58:16,273 [INFO] [253/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 13:58:36,546 [INFO]   ✓ Saved (310 words)
+2026-04-02 13:58:36,651 [INFO] [254/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 13:58:54,735 [INFO]   ✓ Saved (270 words)
+2026-04-02 13:58:54,837 [INFO] [255/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 13:59:08,450 [INFO]   ✓ Saved (231 words)
+2026-04-02 13:59:08,555 [INFO] [256/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 13:59:26,955 [INFO]   ✓ Saved (324 words)
+2026-04-02 13:59:27,060 [INFO] [257/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 13:59:41,725 [INFO]   ✓ Saved (248 words)
+2026-04-02 13:59:41,830 [INFO] [258/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 13:59:52,372 [INFO]   ✓ Saved (177 words)
+2026-04-02 13:59:52,477 [INFO] [259/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 14:00:03,598 [INFO]   ✓ Saved (182 words)
+2026-04-02 14:00:03,703 [INFO] [260/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 14:00:14,441 [INFO]   ✓ Saved (201 words)
+2026-04-02 14:00:14,546 [INFO] [261/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 14:00:28,096 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:00:28,201 [INFO] [262/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 14:00:43,261 [INFO]   ✓ Saved (278 words)
+2026-04-02 14:00:43,366 [INFO] [263/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 14:01:01,194 [INFO]   ✓ Saved (334 words)
+2026-04-02 14:01:01,296 [INFO] [264/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 14:01:17,790 [INFO]   ✓ Saved (330 words)
+2026-04-02 14:01:17,895 [INFO] [265/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 14:01:32,610 [INFO]   ✓ Saved (283 words)
+2026-04-02 14:01:32,712 [INFO] [266/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 14:01:50,102 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:01:50,207 [INFO] [267/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 14:02:03,452 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:02:03,557 [INFO] [268/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 14:02:14,512 [INFO]   ✓ Saved (203 words)
+2026-04-02 14:02:14,617 [INFO] [269/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 14:02:33,739 [INFO]   ✓ Saved (288 words)
+2026-04-02 14:02:33,844 [INFO] [270/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 14:02:46,799 [INFO]   ✓ Saved (213 words)
+2026-04-02 14:02:46,904 [INFO] [271/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 14:03:12,426 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:03:12,531 [INFO] [272/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 14:03:28,159 [INFO]   ✓ Saved (233 words)
+2026-04-02 14:03:28,265 [INFO] [273/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 14:03:41,742 [INFO]   ✓ Saved (239 words)
+2026-04-02 14:03:41,843 [INFO] [274/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 14:04:08,143 [INFO]   ✓ Saved (368 words)
+2026-04-02 14:04:08,248 [INFO] [275/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 14:04:25,663 [INFO]   ✓ Saved (290 words)
+2026-04-02 14:04:25,769 [INFO] [276/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 14:04:40,374 [INFO]   ✓ Saved (274 words)
+2026-04-02 14:04:40,479 [INFO] [277/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 14:04:59,507 [INFO]   ✓ Saved (344 words)
+2026-04-02 14:04:59,612 [INFO] [278/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 14:05:28,323 [INFO]   ✓ Saved (401 words)
+2026-04-02 14:05:28,428 [INFO] [279/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 14:05:45,731 [INFO]   ✓ Saved (301 words)
+2026-04-02 14:05:45,837 [INFO] [280/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 14:06:03,686 [INFO]   ✓ Saved (323 words)
+2026-04-02 14:06:03,791 [INFO] [281/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 14:06:20,198 [INFO]   ✓ Saved (279 words)
+2026-04-02 14:06:20,299 [INFO] [282/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 14:06:34,743 [INFO]   ✓ Saved (222 words)
+2026-04-02 14:06:34,848 [INFO] [283/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 14:06:55,204 [INFO]   ✓ Saved (310 words)
+2026-04-02 14:06:55,310 [INFO] [284/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 14:07:13,499 [INFO]   ✓ Saved (270 words)
+2026-04-02 14:07:13,604 [INFO] [285/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 14:07:26,787 [INFO]   ✓ Saved (231 words)
+2026-04-02 14:07:26,893 [INFO] [286/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 14:07:45,044 [INFO]   ✓ Saved (324 words)
+2026-04-02 14:07:45,149 [INFO] [287/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 14:08:00,000 [INFO]   ✓ Saved (248 words)
+2026-04-02 14:08:00,106 [INFO] [288/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 14:08:10,298 [INFO]   ✓ Saved (177 words)
+2026-04-02 14:08:10,403 [INFO] [289/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 14:08:21,808 [INFO]   ✓ Saved (182 words)
+2026-04-02 14:08:21,909 [INFO] [290/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 14:08:32,695 [INFO]   ✓ Saved (201 words)
+2026-04-02 14:08:32,801 [INFO] [291/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 14:08:46,944 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:08:47,047 [INFO] [292/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 14:09:02,097 [INFO]   ✓ Saved (278 words)
+2026-04-02 14:09:02,202 [INFO] [293/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 14:09:20,272 [INFO]   ✓ Saved (334 words)
+2026-04-02 14:09:20,377 [INFO] [294/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 14:09:37,251 [INFO]   ✓ Saved (330 words)
+2026-04-02 14:09:37,353 [INFO] [295/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 14:09:52,173 [INFO]   ✓ Saved (283 words)
+2026-04-02 14:09:52,278 [INFO] [296/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 14:10:09,780 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:10:09,884 [INFO] [297/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 14:10:23,559 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:10:23,664 [INFO] [298/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 14:10:34,773 [INFO]   ✓ Saved (203 words)
+2026-04-02 14:10:34,878 [INFO] [299/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 14:10:54,360 [INFO]   ✓ Saved (288 words)
+2026-04-02 14:10:54,465 [INFO] [300/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 14:11:07,217 [INFO]   ✓ Saved (213 words)
+2026-04-02 14:11:07,321 [INFO] [301/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 14:11:33,637 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:11:33,741 [INFO] [302/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 14:11:49,199 [INFO]   ✓ Saved (233 words)
+2026-04-02 14:11:49,304 [INFO] [303/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 14:12:02,864 [INFO]   ✓ Saved (239 words)
+2026-04-02 14:12:02,970 [INFO] [304/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 14:12:29,761 [INFO]   ✓ Saved (368 words)
+2026-04-02 14:12:29,867 [INFO] [305/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 14:12:46,897 [INFO]   ✓ Saved (290 words)
+2026-04-02 14:12:47,003 [INFO] [306/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 14:13:01,800 [INFO]   ✓ Saved (274 words)
+2026-04-02 14:13:01,905 [INFO] [307/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 14:13:19,698 [INFO]   ✓ Saved (344 words)
+2026-04-02 14:13:19,801 [INFO] [308/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 14:13:46,613 [INFO]   ✓ Saved (401 words)
+2026-04-02 14:13:46,718 [INFO] [309/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 14:14:04,085 [INFO]   ✓ Saved (301 words)
+2026-04-02 14:14:04,191 [INFO] [310/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 14:14:22,268 [INFO]   ✓ Saved (323 words)
+2026-04-02 14:14:22,373 [INFO] [311/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 14:14:38,267 [INFO]   ✓ Saved (279 words)
+2026-04-02 14:14:38,371 [INFO] [312/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 14:14:52,599 [INFO]   ✓ Saved (222 words)
+2026-04-02 14:14:52,704 [INFO] [313/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 14:15:12,916 [INFO]   ✓ Saved (310 words)
+2026-04-02 14:15:13,021 [INFO] [314/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 14:15:30,628 [INFO]   ✓ Saved (270 words)
+2026-04-02 14:15:30,733 [INFO] [315/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 14:15:43,767 [INFO]   ✓ Saved (231 words)
+2026-04-02 14:15:43,872 [INFO] [316/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 14:16:01,547 [INFO]   ✓ Saved (324 words)
+2026-04-02 14:16:01,652 [INFO] [317/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 14:16:15,993 [INFO]   ✓ Saved (248 words)
+2026-04-02 14:16:16,098 [INFO] [318/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 14:16:26,137 [INFO]   ✓ Saved (177 words)
+2026-04-02 14:16:26,247 [INFO] [319/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 14:16:37,787 [INFO]   ✓ Saved (182 words)
+2026-04-02 14:16:37,893 [INFO] [320/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 14:16:49,204 [INFO]   ✓ Saved (201 words)
+2026-04-02 14:16:49,304 [INFO] [321/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 14:17:03,397 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:17:03,498 [INFO] [322/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 14:17:18,535 [INFO]   ✓ Saved (278 words)
+2026-04-02 14:17:18,640 [INFO] [323/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 14:17:36,798 [INFO]   ✓ Saved (334 words)
+2026-04-02 14:17:36,902 [INFO] [324/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 14:17:54,263 [INFO]   ✓ Saved (330 words)
+2026-04-02 14:17:54,368 [INFO] [325/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 14:18:10,552 [INFO]   ✓ Saved (283 words)
+2026-04-02 14:18:10,653 [INFO] [326/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 14:18:29,781 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:18:29,887 [INFO] [327/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 14:18:44,013 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:18:44,115 [INFO] [328/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 14:18:55,968 [INFO]   ✓ Saved (203 words)
+2026-04-02 14:18:56,073 [INFO] [329/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 14:19:16,525 [INFO]   ✓ Saved (288 words)
+2026-04-02 14:19:16,626 [INFO] [330/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 14:27:50,215 [INFO]   ✓ Saved (213 words)
+2026-04-02 14:27:50,320 [INFO] [331/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 14:28:16,320 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:28:16,426 [INFO] [332/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 14:28:31,256 [INFO]   ✓ Saved (233 words)
+2026-04-02 14:28:31,361 [INFO] [333/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 14:28:44,365 [INFO]   ✓ Saved (239 words)
+2026-04-02 14:28:44,470 [INFO] [334/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 14:29:09,845 [INFO]   ✓ Saved (368 words)
+2026-04-02 14:29:09,950 [INFO] [335/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 14:29:26,348 [INFO]   ✓ Saved (290 words)
+2026-04-02 14:29:26,454 [INFO] [336/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 14:29:40,717 [INFO]   ✓ Saved (274 words)
+2026-04-02 14:29:40,822 [INFO] [337/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 14:29:58,156 [INFO]   ✓ Saved (344 words)
+2026-04-02 14:29:58,261 [INFO] [338/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 14:30:23,657 [INFO]   ✓ Saved (401 words)
+2026-04-02 14:30:23,763 [INFO] [339/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 14:30:40,636 [INFO]   ✓ Saved (301 words)
+2026-04-02 14:30:40,741 [INFO] [340/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 14:30:58,147 [INFO]   ✓ Saved (323 words)
+2026-04-02 14:30:58,252 [INFO] [341/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 14:31:13,875 [INFO]   ✓ Saved (279 words)
+2026-04-02 14:31:13,980 [INFO] [342/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 14:31:27,834 [INFO]   ✓ Saved (222 words)
+2026-04-02 14:31:27,939 [INFO] [343/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 14:31:47,836 [INFO]   ✓ Saved (310 words)
+2026-04-02 14:31:47,941 [INFO] [344/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 14:32:05,373 [INFO]   ✓ Saved (270 words)
+2026-04-02 14:32:05,478 [INFO] [345/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 14:32:18,541 [INFO]   ✓ Saved (231 words)
+2026-04-02 14:32:18,646 [INFO] [346/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 14:32:36,400 [INFO]   ✓ Saved (324 words)
+2026-04-02 14:32:36,505 [INFO] [347/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 14:32:50,932 [INFO]   ✓ Saved (248 words)
+2026-04-02 14:32:51,033 [INFO] [348/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 14:33:01,137 [INFO]   ✓ Saved (177 words)
+2026-04-02 14:33:01,248 [INFO] [349/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 14:33:12,333 [INFO]   ✓ Saved (182 words)
+2026-04-02 14:33:12,443 [INFO] [350/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 14:33:22,969 [INFO]   ✓ Saved (201 words)
+2026-04-02 14:33:23,079 [INFO] [351/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 14:33:36,402 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:33:36,512 [INFO] [352/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 14:33:51,348 [INFO]   ✓ Saved (278 words)
+2026-04-02 14:33:51,449 [INFO] [353/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 14:34:08,768 [INFO]   ✓ Saved (334 words)
+2026-04-02 14:34:08,878 [INFO] [354/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 14:34:25,161 [INFO]   ✓ Saved (330 words)
+2026-04-02 14:34:25,271 [INFO] [355/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 14:34:39,650 [INFO]   ✓ Saved (283 words)
+2026-04-02 14:34:39,760 [INFO] [356/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 14:34:56,611 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:34:56,721 [INFO] [357/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 14:35:09,819 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:35:09,929 [INFO] [358/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 14:35:20,743 [INFO]   ✓ Saved (203 words)
+2026-04-02 14:35:20,844 [INFO] [359/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 14:35:39,363 [INFO]   ✓ Saved (288 words)
+2026-04-02 14:35:39,473 [INFO] [360/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 14:35:51,713 [INFO]   ✓ Saved (213 words)
+2026-04-02 14:35:51,824 [INFO] [361/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 14:36:17,126 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:36:17,236 [INFO] [362/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 14:36:31,928 [INFO]   ✓ Saved (233 words)
+2026-04-02 14:36:32,038 [INFO] [363/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 14:36:44,951 [INFO]   ✓ Saved (239 words)
+2026-04-02 14:36:45,061 [INFO] [364/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 14:37:10,358 [INFO]   ✓ Saved (368 words)
+2026-04-02 14:37:10,468 [INFO] [365/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 14:37:26,848 [INFO]   ✓ Saved (290 words)
+2026-04-02 14:37:26,958 [INFO] [366/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 14:37:41,242 [INFO]   ✓ Saved (274 words)
+2026-04-02 14:37:41,353 [INFO] [367/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 14:37:58,311 [INFO]   ✓ Saved (344 words)
+2026-04-02 14:37:58,421 [INFO] [368/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 14:38:23,710 [INFO]   ✓ Saved (401 words)
+2026-04-02 14:38:23,819 [INFO] [369/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 14:38:40,654 [INFO]   ✓ Saved (301 words)
+2026-04-02 14:38:40,756 [INFO] [370/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 14:38:58,099 [INFO]   ✓ Saved (323 words)
+2026-04-02 14:38:58,209 [INFO] [371/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 14:39:13,754 [INFO]   ✓ Saved (279 words)
+2026-04-02 14:39:13,864 [INFO] [372/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 14:39:27,684 [INFO]   ✓ Saved (222 words)
+2026-04-02 14:39:27,794 [INFO] [373/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 14:39:47,636 [INFO]   ✓ Saved (310 words)
+2026-04-02 14:39:47,746 [INFO] [374/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 14:40:05,097 [INFO]   ✓ Saved (270 words)
+2026-04-02 14:40:05,207 [INFO] [375/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 14:40:18,259 [INFO]   ✓ Saved (231 words)
+2026-04-02 14:40:18,369 [INFO] [376/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 14:40:36,057 [INFO]   ✓ Saved (324 words)
+2026-04-02 14:40:36,159 [INFO] [377/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 14:40:50,528 [INFO]   ✓ Saved (248 words)
+2026-04-02 14:40:50,639 [INFO] [378/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 14:41:00,684 [INFO]   ✓ Saved (177 words)
+2026-04-02 14:41:00,794 [INFO] [379/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 14:41:11,852 [INFO]   ✓ Saved (182 words)
+2026-04-02 14:41:11,962 [INFO] [380/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 14:41:22,455 [INFO]   ✓ Saved (201 words)
+2026-04-02 14:41:22,565 [INFO] [381/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 14:41:35,864 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:41:35,974 [INFO] [382/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 14:41:50,786 [INFO]   ✓ Saved (278 words)
+2026-04-02 14:41:50,896 [INFO] [383/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 14:42:08,494 [INFO]   ✓ Saved (334 words)
+2026-04-02 14:42:08,599 [INFO] [384/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 14:42:24,859 [INFO]   ✓ Saved (330 words)
+2026-04-02 14:42:24,964 [INFO] [385/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 14:42:40,297 [INFO]   ✓ Saved (283 words)
+2026-04-02 14:42:40,402 [INFO] [386/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 14:42:57,706 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:42:57,811 [INFO] [387/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 14:43:11,210 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:43:11,315 [INFO] [388/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 14:43:22,500 [INFO]   ✓ Saved (203 words)
+2026-04-02 14:43:22,605 [INFO] [389/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 14:43:41,318 [INFO]   ✓ Saved (288 words)
+2026-04-02 14:43:41,423 [INFO] [390/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 14:43:54,539 [INFO]   ✓ Saved (213 words)
+2026-04-02 14:43:54,645 [INFO] [391/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 14:44:21,490 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:44:21,592 [INFO] [392/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 14:44:37,092 [INFO]   ✓ Saved (233 words)
+2026-04-02 14:44:37,198 [INFO] [393/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 14:44:50,797 [INFO]   ✓ Saved (239 words)
+2026-04-02 14:44:50,903 [INFO] [394/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 14:45:18,631 [INFO]   ✓ Saved (368 words)
+2026-04-02 14:45:18,735 [INFO] [395/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 14:45:36,607 [INFO]   ✓ Saved (290 words)
+2026-04-02 14:45:36,711 [INFO] [396/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 14:45:51,064 [INFO]   ✓ Saved (274 words)
+2026-04-02 14:45:51,169 [INFO] [397/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 14:46:08,098 [INFO]   ✓ Saved (344 words)
+2026-04-02 14:46:08,200 [INFO] [398/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 14:46:33,807 [INFO]   ✓ Saved (401 words)
+2026-04-02 14:46:33,912 [INFO] [399/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 14:46:51,407 [INFO]   ✓ Saved (301 words)
+2026-04-02 14:46:51,512 [INFO] [400/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 14:47:09,277 [INFO]   ✓ Saved (323 words)
+2026-04-02 14:47:09,382 [INFO] [401/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 14:47:25,141 [INFO]   ✓ Saved (279 words)
+2026-04-02 14:47:25,246 [INFO] [402/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 14:47:39,313 [INFO]   ✓ Saved (222 words)
+2026-04-02 14:47:39,418 [INFO] [403/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 14:47:59,563 [INFO]   ✓ Saved (310 words)
+2026-04-02 14:47:59,664 [INFO] [404/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 14:48:18,270 [INFO]   ✓ Saved (270 words)
+2026-04-02 14:48:18,371 [INFO] [405/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 14:48:32,723 [INFO]   ✓ Saved (231 words)
+2026-04-02 14:48:32,828 [INFO] [406/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 14:48:51,624 [INFO]   ✓ Saved (324 words)
+2026-04-02 14:48:51,729 [INFO] [407/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 14:49:06,960 [INFO]   ✓ Saved (248 words)
+2026-04-02 14:49:07,065 [INFO] [408/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 14:49:17,181 [INFO]   ✓ Saved (177 words)
+2026-04-02 14:49:17,283 [INFO] [409/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 14:49:28,877 [INFO]   ✓ Saved (182 words)
+2026-04-02 14:49:28,982 [INFO] [410/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 14:49:40,072 [INFO]   ✓ Saved (201 words)
+2026-04-02 14:49:40,178 [INFO] [411/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 14:49:54,137 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:49:54,240 [INFO] [412/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 14:50:09,224 [INFO]   ✓ Saved (278 words)
+2026-04-02 14:50:09,325 [INFO] [413/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 14:50:26,938 [INFO]   ✓ Saved (334 words)
+2026-04-02 14:50:27,044 [INFO] [414/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 14:50:44,663 [INFO]   ✓ Saved (330 words)
+2026-04-02 14:50:44,768 [INFO] [415/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 14:51:00,653 [INFO]   ✓ Saved (283 words)
+2026-04-02 14:51:00,758 [INFO] [416/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 14:51:18,702 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:51:18,807 [INFO] [417/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 14:51:32,277 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:51:32,378 [INFO] [418/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 14:51:43,537 [INFO]   ✓ Saved (203 words)
+2026-04-02 14:51:43,642 [INFO] [419/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 14:52:03,032 [INFO]   ✓ Saved (288 words)
+2026-04-02 14:52:03,137 [INFO] [420/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 14:52:15,863 [INFO]   ✓ Saved (213 words)
+2026-04-02 14:52:15,968 [INFO] [421/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 14:52:42,784 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:52:42,890 [INFO] [422/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 14:52:58,606 [INFO]   ✓ Saved (233 words)
+2026-04-02 14:52:58,712 [INFO] [423/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 14:53:12,014 [INFO]   ✓ Saved (239 words)
+2026-04-02 14:53:12,119 [INFO] [424/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 14:53:37,900 [INFO]   ✓ Saved (368 words)
+2026-04-02 14:53:38,002 [INFO] [425/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 14:53:54,525 [INFO]   ✓ Saved (290 words)
+2026-04-02 14:53:54,630 [INFO] [426/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 14:54:09,090 [INFO]   ✓ Saved (274 words)
+2026-04-02 14:54:09,196 [INFO] [427/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 14:54:26,548 [INFO]   ✓ Saved (344 words)
+2026-04-02 14:54:26,653 [INFO] [428/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 14:54:53,589 [INFO]   ✓ Saved (401 words)
+2026-04-02 14:54:53,694 [INFO] [429/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 14:55:11,263 [INFO]   ✓ Saved (301 words)
+2026-04-02 14:55:11,364 [INFO] [430/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 14:55:29,533 [INFO]   ✓ Saved (323 words)
+2026-04-02 14:55:29,639 [INFO] [431/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 14:55:45,889 [INFO]   ✓ Saved (279 words)
+2026-04-02 14:55:45,995 [INFO] [432/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 14:56:00,503 [INFO]   ✓ Saved (222 words)
+2026-04-02 14:56:00,609 [INFO] [433/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 14:56:21,225 [INFO]   ✓ Saved (310 words)
+2026-04-02 14:56:21,330 [INFO] [434/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 14:56:38,731 [INFO]   ✓ Saved (270 words)
+2026-04-02 14:56:38,836 [INFO] [435/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 14:56:52,129 [INFO]   ✓ Saved (231 words)
+2026-04-02 14:56:52,235 [INFO] [436/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 14:57:10,033 [INFO]   ✓ Saved (324 words)
+2026-04-02 14:57:10,138 [INFO] [437/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 14:57:24,943 [INFO]   ✓ Saved (248 words)
+2026-04-02 14:57:25,044 [INFO] [438/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 14:57:35,290 [INFO]   ✓ Saved (177 words)
+2026-04-02 14:57:35,396 [INFO] [439/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 14:57:46,658 [INFO]   ✓ Saved (182 words)
+2026-04-02 14:57:46,763 [INFO] [440/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 14:57:57,366 [INFO]   ✓ Saved (201 words)
+2026-04-02 14:57:57,472 [INFO] [441/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 14:58:10,800 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:58:10,905 [INFO] [442/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 14:58:25,709 [INFO]   ✓ Saved (278 words)
+2026-04-02 14:58:25,815 [INFO] [443/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 14:58:44,124 [INFO]   ✓ Saved (334 words)
+2026-04-02 14:58:44,229 [INFO] [444/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 14:59:00,677 [INFO]   ✓ Saved (330 words)
+2026-04-02 14:59:00,779 [INFO] [445/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 14:59:15,361 [INFO]   ✓ Saved (283 words)
+2026-04-02 14:59:15,463 [INFO] [446/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 14:59:32,819 [INFO]   ✓ Saved (326 words)
+2026-04-02 14:59:32,925 [INFO] [447/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 14:59:46,577 [INFO]   ✓ Saved (252 words)
+2026-04-02 14:59:46,682 [INFO] [448/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 14:59:57,807 [INFO]   ✓ Saved (203 words)
+2026-04-02 14:59:57,913 [INFO] [449/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 15:00:16,829 [INFO]   ✓ Saved (288 words)
+2026-04-02 15:00:16,934 [INFO] [450/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 15:00:29,279 [INFO]   ✓ Saved (213 words)
+2026-04-02 15:00:29,384 [INFO] [451/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 15:00:55,505 [INFO]   ✓ Saved (326 words)
+2026-04-02 15:00:55,610 [INFO] [452/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 15:01:10,885 [INFO]   ✓ Saved (233 words)
+2026-04-02 15:01:10,985 [INFO] [453/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 15:01:24,270 [INFO]   ✓ Saved (239 words)
+2026-04-02 15:01:24,374 [INFO] [454/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 15:01:50,421 [INFO]   ✓ Saved (368 words)
+2026-04-02 15:01:50,527 [INFO] [455/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 15:02:07,119 [INFO]   ✓ Saved (290 words)
+2026-04-02 15:02:07,224 [INFO] [456/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 15:02:21,727 [INFO]   ✓ Saved (274 words)
+2026-04-02 15:02:21,833 [INFO] [457/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 15:02:40,225 [INFO]   ✓ Saved (344 words)
+2026-04-02 15:02:40,331 [INFO] [458/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 15:03:07,706 [INFO]   ✓ Saved (401 words)
+2026-04-02 15:03:07,812 [INFO] [459/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 15:03:25,499 [INFO]   ✓ Saved (301 words)
+2026-04-02 15:03:25,604 [INFO] [460/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 15:03:44,140 [INFO]   ✓ Saved (323 words)
+2026-04-02 15:03:44,243 [INFO] [461/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 15:04:00,843 [INFO]   ✓ Saved (279 words)
+2026-04-02 15:04:00,946 [INFO] [462/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 15:04:15,561 [INFO]   ✓ Saved (222 words)
+2026-04-02 15:04:15,663 [INFO] [463/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 15:04:36,172 [INFO]   ✓ Saved (310 words)
+2026-04-02 15:04:36,277 [INFO] [464/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 15:04:54,762 [INFO]   ✓ Saved (270 words)
+2026-04-02 15:04:54,867 [INFO] [465/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 15:05:08,347 [INFO]   ✓ Saved (231 words)
+2026-04-02 15:05:08,453 [INFO] [466/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 15:05:26,940 [INFO]   ✓ Saved (324 words)
+2026-04-02 15:05:27,046 [INFO] [467/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 15:05:41,768 [INFO]   ✓ Saved (248 words)
+2026-04-02 15:05:41,873 [INFO] [468/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 15:05:52,331 [INFO]   ✓ Saved (177 words)
+2026-04-02 15:05:52,437 [INFO] [469/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 15:06:03,762 [INFO]   ✓ Saved (182 words)
+2026-04-02 15:06:03,868 [INFO] [470/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 15:06:15,339 [INFO]   ✓ Saved (201 words)
+2026-04-02 15:06:15,445 [INFO] [471/500] Computer Science > Algorithms — Time complexity and Big-O notation
+2026-04-02 15:06:29,412 [INFO]   ✓ Saved (252 words)
+2026-04-02 15:06:29,517 [INFO] [472/500] Computer Science > Machine Learning — Gradient descent in neural network optimization
+2026-04-02 15:06:44,510 [INFO]   ✓ Saved (278 words)
+2026-04-02 15:06:44,616 [INFO] [473/500] Computer Science > Data Structures — Hash tables vs binary search trees
+2026-04-02 15:07:01,992 [INFO]   ✓ Saved (334 words)
+2026-04-02 15:07:02,097 [INFO] [474/500] Computer Science > Computer Architecture — CPU caching and cache miss costs
+2026-04-02 15:07:19,675 [INFO]   ✓ Saved (330 words)
+2026-04-02 15:07:19,776 [INFO] [475/500] Computer Science > Networking — The TCP/IP model and data transmission
+2026-04-02 15:07:35,357 [INFO]   ✓ Saved (283 words)
+2026-04-02 15:07:35,462 [INFO] [476/500] Engineering > Electrical Engineering — How transistors enable digital logic
+2026-04-02 15:07:53,661 [INFO]   ✓ Saved (326 words)
+2026-04-02 15:07:53,767 [INFO] [477/500] Engineering > Mechanical Engineering — Stress-strain analysis in structural design
+2026-04-02 15:08:07,266 [INFO]   ✓ Saved (252 words)
+2026-04-02 15:08:07,372 [INFO] [478/500] Engineering > Control Systems — PID controllers and their three components
+2026-04-02 15:08:18,856 [INFO]   ✓ Saved (203 words)
+2026-04-02 15:08:18,961 [INFO] [479/500] Engineering > Signal Processing — The Fourier Transform and frequency analysis
+2026-04-02 15:08:37,825 [INFO]   ✓ Saved (288 words)
+2026-04-02 15:08:37,928 [INFO] [480/500] Engineering > Materials Science — Crystalline vs amorphous solids
+2026-04-02 15:08:50,349 [INFO]   ✓ Saved (213 words)
+2026-04-02 15:08:50,454 [INFO] [481/500] Mathematics > Calculus — The Fundamental Theorem of Calculus
+2026-04-02 15:09:16,689 [INFO]   ✓ Saved (326 words)
+2026-04-02 15:09:16,794 [INFO] [482/500] Mathematics > Linear Algebra — Eigenvalues and eigenvectors
+2026-04-02 15:09:32,165 [INFO]   ✓ Saved (233 words)
+2026-04-02 15:09:32,271 [INFO] [483/500] Mathematics > Statistics — The Central Limit Theorem
+2026-04-02 15:09:46,335 [INFO]   ✓ Saved (239 words)
+2026-04-02 15:09:46,437 [INFO] [484/500] Mathematics > Probability — Bayes' Theorem
+2026-04-02 15:10:11,822 [INFO]   ✓ Saved (368 words)
+2026-04-02 15:10:11,924 [INFO] [485/500] Mathematics > Differential Equations — Ordinary vs partial differential equations
+2026-04-02 15:10:29,102 [INFO]   ✓ Saved (290 words)
+2026-04-02 15:10:29,203 [INFO] [486/500] Physics > Quantum Mechanics — Wave-particle duality and the double-slit experiment
+2026-04-02 15:10:43,762 [INFO]   ✓ Saved (274 words)
+2026-04-02 15:10:43,867 [INFO] [487/500] Physics > Thermodynamics — The four laws of thermodynamics
+2026-04-02 15:11:01,585 [INFO]   ✓ Saved (344 words)
+2026-04-02 15:11:01,690 [INFO] [488/500] Physics > Electromagnetism — Maxwell's equations
+2026-04-02 15:11:29,652 [INFO]   ✓ Saved (401 words)
+2026-04-02 15:11:29,757 [INFO] [489/500] Physics > Special Relativity — Time dilation and length contraction
+2026-04-02 15:11:48,262 [INFO]   ✓ Saved (301 words)
+2026-04-02 15:11:48,366 [INFO] [490/500] Physics > Classical Mechanics — Newton's laws of motion
+2026-04-02 15:12:06,574 [INFO]   ✓ Saved (323 words)
+2026-04-02 15:12:06,675 [INFO] [491/500] Chemistry > Organic Chemistry — SN1 vs SN2 nucleophilic substitution reactions
+2026-04-02 15:12:23,177 [INFO]   ✓ Saved (279 words)
+2026-04-02 15:12:23,279 [INFO] [492/500] Chemistry > Physical Chemistry — Gibbs free energy and reaction spontaneity
+2026-04-02 15:12:37,929 [INFO]   ✓ Saved (222 words)
+2026-04-02 15:12:38,034 [INFO] [493/500] Chemistry > Electrochemistry — How galvanic cells generate electrical energy
+2026-04-02 15:12:58,673 [INFO]   ✓ Saved (310 words)
+2026-04-02 15:12:58,778 [INFO] [494/500] Chemistry > Quantum Chemistry — The Schrödinger equation applied to hydrogen
+2026-04-02 15:13:17,505 [INFO]   ✓ Saved (270 words)
+2026-04-02 15:13:17,606 [INFO] [495/500] Chemistry > Biochemistry — DNA structure and information encoding
+2026-04-02 15:13:31,187 [INFO]   ✓ Saved (231 words)
+2026-04-02 15:13:31,292 [INFO] [496/500] Biology > Cell Biology — The role of mitochondria in cellular respiration
+2026-04-02 15:13:49,260 [INFO]   ✓ Saved (324 words)
+2026-04-02 15:13:49,365 [INFO] [497/500] Biology > Genetics — CRISPR-Cas9 gene editing mechanism
+2026-04-02 15:14:03,851 [INFO]   ✓ Saved (248 words)
+2026-04-02 15:14:03,957 [INFO] [498/500] Biology > Evolutionary Biology — Natural selection and observable evolution
+2026-04-02 15:14:14,628 [INFO]   ✓ Saved (177 words)
+2026-04-02 15:14:14,730 [INFO] [499/500] Biology > Neuroscience — Synaptic transmission at chemical synapses
+2026-04-02 15:14:26,644 [INFO]   ✓ Saved (182 words)
+2026-04-02 15:14:26,750 [INFO] [500/500] Biology > Molecular Biology — The central dogma of molecular biology
+2026-04-02 15:14:37,643 [INFO]   ✓ Saved (201 words)
+2026-04-02 15:14:37,746 [INFO] 
+All done! 500 passages saved to stem_contexts.jsonl
